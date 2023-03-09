@@ -35,9 +35,9 @@ Here are some ideas to get you started:
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
 </p>
 
-### Games
+<!-- ### Games
 
 <p align="left">
 <a href="https://playvalorant.com/" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/V/valorant-logo-FAB2CA0E55-seeklogo.com.png" width="36" height="36" alt="Valorant" /></a>
 <a href="https://www.ea.com/games/apex-legends?isLocalized=true" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/A/apex-logo-F74B0C9FCD-seeklogo.com.png" width="36" height="36" alt="Apex" /></a>
-</p>
+</p> -->
