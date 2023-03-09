@@ -2,10 +2,6 @@
 
 ## Web Developer
 
-**NitroEz/NitroEz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 👨‍🎓 I’m currently study at Burapha University.
 - 🌱 I’m currently learning React.
 - 🖥️  See my portfolio at [Portfolio](http://google.com)
