@@ -41,3 +41,11 @@ Here are some ideas to get you started:
 <a href="https://playvalorant.com/" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/V/valorant-logo-FAB2CA0E55-seeklogo.com.png" width="36" height="36" alt="Valorant" /></a>
 <a href="https://www.ea.com/games/apex-legends?isLocalized=true" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/A/apex-logo-F74B0C9FCD-seeklogo.com.png" width="36" height="36" alt="Apex" /></a>
 </p> -->
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/NitroEz"><img src="https://github-readme-stats.vercel.app/api?username=NitroEz&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&show_icons=true" alt="NitroEz's GitHub stats" /></a>
+
+<a href="https://github.com/NitroEz" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NitroEz&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
