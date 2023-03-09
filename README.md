@@ -3,13 +3,9 @@
 ## Web Developer
 
 - 👨‍🎓 I’m currently study at Burapha University.
-- 🌱 I’m currently learning React.
-- 🖥️  See my portfolio at [Portfolio](http://google.com)
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+  <!-- - 🖥️  See my portfolio at [Portfolio](mailto:kittipich.work@gmail.com) -->
+- 📧 My Contact [kittipich@gmail.com](mailto:kittipich.work@gmail.com)
+- 🌱 I'm learning React
 
 ### Skills
 
@@ -26,17 +22,9 @@
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
 </p>
-
-<!-- ### Games
-
-<p align="left">
-<a href="https://playvalorant.com/" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/V/valorant-logo-FAB2CA0E55-seeklogo.com.png" width="36" height="36" alt="Valorant" /></a>
-<a href="https://www.ea.com/games/apex-legends?isLocalized=true" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/A/apex-logo-F74B0C9FCD-seeklogo.com.png" width="36" height="36" alt="Apex" /></a>
-</p> -->
 
 ### Badges
 
