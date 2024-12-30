@@ -2,10 +2,10 @@
 
 ## Web Developer
 
-- 👨‍🎓 I’m currently study at Burapha University.
+  <!-- - 👨‍🎓 I’m currently study at Burapha University. -->
   <!-- - 🖥️  See my portfolio at [Portfolio](mailto:kittipich.work@gmail.com) -->
 - 📧 My Contact [kittipich.work@gmail.com](mailto:kittipich.work@gmail.com)
-- 🌱 I'm learning React
+  <!-- - 🌱 I'm learning React -->
 
 ### Skills
 
